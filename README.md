@@ -1,3 +1,3 @@
 # iNeuron
 Python Basic by Krish 
-Pythoon Session from iNEURON
+Python Session from iNEURON
